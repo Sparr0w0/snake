@@ -1,3 +1,3 @@
 # snake
 
-snake clone with that randomly kills you to spice things up
+snake clone that took me far too long for a simple thing
